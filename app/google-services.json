@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "685449734760",
+    "firebase_url": "https://atm20-3bb01.firebaseio.com",
+    "project_id": "atm20-3bb01",
+    "storage_bucket": "atm20-3bb01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685449734760:android:21dc9ec1f825379419e9dd",
+        "android_client_info": {
+          "package_name": "com.home.reviewatm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685449734760-a0kt8vumtju4oe6roi2ed2mcsfkhabv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWgy-T3HYYBY3Mden3qRMcmuhDLlyVnzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685449734760-a0kt8vumtju4oe6roi2ed2mcsfkhabv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
